@@ -14,3 +14,7 @@ Check the number of days you've spent on earth.
 ```zsh
 go install github.com/DaveSaah/days@latest
 ```
+
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/9b249aa9-957d-406d-ab63-58be6cff16dd)
